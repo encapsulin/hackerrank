@@ -1,4 +1,4 @@
-package en.caps.hackerrank.algo.days30;
+package en.caps.hackerrank.days30;
 
 public class Day10BinaryNumbers {
 

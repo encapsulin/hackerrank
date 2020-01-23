@@ -1,4 +1,4 @@
-package en.caps.hackerrank.algo.days30;
+package en.caps.hackerrank.days30;
 
 import java.util.ArrayList;
 import java.util.Collections;
