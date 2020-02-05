@@ -2,7 +2,7 @@ package en.caps.hackerrank.days30;
 
 import java.util.LinkedList;
 import java.util.Scanner;
-import java.util.Stack;
+//import java.util.Stack;
 
 public class Day18QueuesandStacks {
 

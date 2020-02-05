@@ -1,6 +1,8 @@
-package en.caps.hackerrank.days30;
+package en.caps.hackerrank.days30.day22;
 
 import java.util.Scanner;
+
+//import en.caps.hackerrank.days30.Node;
 
 /*public class Day22BinarySearchTrees {
 
