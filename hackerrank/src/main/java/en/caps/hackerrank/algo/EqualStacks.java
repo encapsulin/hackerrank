@@ -5,6 +5,8 @@ import java.util.LinkedList;
 public class EqualStacks {
 
 	public static void main(String[] args) {
+		String asdf = " qwer ";
+		System.out.printf("[%s]",asdf.trim().isEmpty());
 //		int[] h1 = { 3, 2, 1, 1, 1 };
 //		int[] h2 = { 4, 3, 2 };
 //		int[] h3 = { 1, 1, 4, 1 };
